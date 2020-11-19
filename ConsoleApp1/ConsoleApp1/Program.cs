@@ -32,7 +32,7 @@ namespace ConsoleApp1
             short s = (short)o;
             Console.WriteLine(s);
 
-            Console.WriteLine("Ququ+");
+            Console.WriteLine("Ququ++");
 
         }
     }
